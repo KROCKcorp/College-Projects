@@ -1,6 +1,6 @@
-# weapon
+# Escobar Weapons App
 
-A new Flutter project.
+A Flutter Project for E-Comemrce
 
 ## Getting Started
 
